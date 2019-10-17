@@ -22,7 +22,7 @@ body {
 }
 
 .saved-list {
-  background-color: #fff;
+  background-color: rgb(69, 67, 170);
   border: 0;
   box-shadow: 0 -1px 0 #e0e0e0, 0 0 2px rgba(0, 0, 0, 0.12),
     0 2px 4px rgba(0, 0, 0, 0.24);
@@ -42,9 +42,10 @@ body {
 
 .saved-movie {
   margin: 0 10px;
+  color: white;
 }
 .saved-active {
-  color: blue;
+  color: brown;
   border: 1px solid grey;
   padding: 5px;
 }
